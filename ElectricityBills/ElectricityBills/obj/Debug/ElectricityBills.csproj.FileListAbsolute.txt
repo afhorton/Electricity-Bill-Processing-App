@@ -1,0 +1,14 @@
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\bin\Debug\ElectricityBills.exe.config
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\bin\Debug\ElectricityBills.exe
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\bin\Debug\ElectricityBills.pdb
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\bin\Debug\CustomerData.dll
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\bin\Debug\CustomerData.pdb
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\obj\Debug\ElectricityBills.csproj.AssemblyReference.cache
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\obj\Debug\ElectricityBills.csproj.SuggestedBindingRedirects.cache
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\obj\Debug\ElectricityBills.frmElectricityBills.resources
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\obj\Debug\ElectricityBills.Properties.Resources.resources
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\obj\Debug\ElectricityBills.csproj.GenerateResource.cache
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\obj\Debug\ElectricityBills.csproj.CoreCompileInputs.cache
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\obj\Debug\ElectricityBills.csproj.CopyComplete
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\obj\Debug\ElectricityBills.exe
+C:\Users\922747\source\repos\ElectricityBills\ElectricityBills\obj\Debug\ElectricityBills.pdb
